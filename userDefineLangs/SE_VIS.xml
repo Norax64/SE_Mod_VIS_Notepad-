@@ -24,9 +24,9 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">screen graphic size position color bgcolor&#x000D;&#x000A;rotation style border gradient font alignment&#x000D;&#x000A;background replace</Keywords>
+            <Keywords name="Keywords1">screen graphic size position color bgcolor&#x000D;&#x000A;rotation style border gradient font alignment&#x000D;&#x000A;background replace setline autoscroll</Keywords>
             <Keywords name="Keywords2">check dcrefresh refresh visibility checkremote</Keywords>
-            <Keywords name="Keywords3">tiles icon test text bar cuvedbar slider list battery&#x000D;&#x000A;equal unequal less greater lessequal greaterequal&#x000D;&#x000A;hydrogen oxygen airvent powerproducer solar windturbine reactor generator inventory cargo jumpdrive landinggear connector production, assembler refinery piston shipcontroller thruster property&#x000D;&#x000A;capacity stockpile oxygenlevel pressurizeable usage fuel inout items ready status connected unconnected overview position extending retracting speed gravity thrust override value onoff</Keywords>
+            <Keywords name="Keywords3">tiles icon test text bar cuvedbar slider list battery&#x000D;&#x000A;equal unequal less greater lessequal greaterequal&#x000D;&#x000A;hydrogen oxygen airvent powerproducer solar windturbine reactor generator inventory cargo jumpdrive landinggear connector production, assembler refinery piston shipcontroller thruster property&#x000D;&#x000A;capacity stockpile oxygenlevel pressurizeable usage fuel inout items ready status connected unconnected overview position extending retracting speed gravity thrust override value onoff </Keywords>
             <Keywords name="Keywords4">and or left right center true false</Keywords>
             <Keywords name="Keywords5"></Keywords>
             <Keywords name="Keywords6"></Keywords>
